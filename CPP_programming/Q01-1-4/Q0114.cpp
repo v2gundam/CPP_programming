@@ -9,7 +9,7 @@
 int main()
 {
 	int num=0;
-	std::cout << "판매 금액을 만원 단위로 입력(-1 to end): ";
+	std::cout << "판매 금액을 만원 단위로 입력하쇼  (-1 to end): ";
 	std::cin >> num;
 	if (num < 0)
 	{
