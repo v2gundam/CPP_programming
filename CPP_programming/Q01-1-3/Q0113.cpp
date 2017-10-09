@@ -6,7 +6,7 @@
 
 int main()
 {
-	int num;
+	int num=0;
 	std::cout << "2에서 9 사이의 숫자 입력 :";
 	std::cin >> num;
 
