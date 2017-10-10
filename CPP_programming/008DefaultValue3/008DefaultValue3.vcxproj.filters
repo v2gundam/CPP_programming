@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="008DefaultValue3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
